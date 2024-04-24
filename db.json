@@ -1,0 +1,659 @@
+{
+  "all": [
+    {
+      "id": 1,
+      "brand": "Kalini",
+      "title": "Floral Embroidered Thread Work Regular Kurta",
+      "category": "kurtis",
+      "description": "Silk georgette mini dress with floral print, long sleeves, and ruffled hem.",
+      "discountPercentage": 10.5,
+      "images": [
+        "https://rukminim2.flixcart.com/image/612/612/xif0q/kurta/m/a/b/xl-kurta-flared-u-neck-013-dhakre-fashion-original-imagsn2pbdy8apay.jpeg?q=70",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclejmv8q2MZPJ7LuOtsdIsq96iXL9KbQpE2-IX5Zv-BbAnraoBkZ4Ml0JAvIPiJInpGk&usqp=CAU",
+        "https://images.squarespace-cdn.com/content/v1/580cf7ce6b8f5b3576a3da9f/1597614461544-FFTOA1TABOJ3G4NQAARD/7ae330c577e7ec4f46c4370c5817d1b1.jpg",
+        "https://editorialist.com/thumbnail/600/2021/4/014/098/776/14098776~white_0.webp?width=454&quality=60"
+      ],
+      "size": ["s", "m", "l", "xl"],
+      "newPrice": "710",
+      "prevPrice": "2959",
+      "star": [1, 2, 3],
+      "stock": 20,
+      "reviews": "(123 reviews)",
+      "color": ["green", "black", "pink", "brown"]
+    },
+    {
+      "id": 2,
+      "brand": "Sanganeri Kurti",
+      "title": "Women Printed Viscose Rayon Anarkali Kurta",
+      "category": "kurtis",
+      "description": "Silk georgette mini dress with floral print, long sleeves, and ruffled hem.",
+      "discountPercentage": 10.5,
+      "images": [
+        "https://rukminim2.flixcart.com/image/612/612/xif0q/kurta/k/l/3/4xl-sk946pk-sq-kurti-original-imagw8cgf4h7nwgz.jpeg?q=70",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclejmv8q2MZPJ7LuOtsdIsq96iXL9KbQpE2-IX5Zv-BbAnraoBkZ4Ml0JAvIPiJInpGk&usqp=CAU",
+        "https://images.squarespace-cdn.com/content/v1/580cf7ce6b8f5b3576a3da9f/1597614461544-FFTOA1TABOJ3G4NQAARD/7ae330c577e7ec4f46c4370c5817d1b1.jpg",
+        "https://editorialist.com/thumbnail/600/2021/4/014/098/776/14098776~white_0.webp?width=454&quality=60"
+      ],
+      "size": ["s", "m", "l", "xl"],
+      "newPrice": "464",
+      "prevPrice": "2499",
+      "star": [1, 2, 3],
+      "stock": 20,
+      "reviews": "(123 reviews)",
+      "color": ["red", "green", "black", "pink", "brown"]
+    },
+    {
+      "id": 3,
+      "brand": "Nice Look Fashion",
+      "title": "Women Embroidered Cotton Rayon Straight Kurta",
+      "category": "kurtis",
+      "description": "Silk georgette mini dress with floral print, long sleeves, and ruffled hem.",
+      "discountPercentage": 10.5,
+      "images": [
+        "https://rukminim2.flixcart.com/image/612/612/xif0q/kurta/m/a/b/xl-kurta-flared-u-neck-013-dhakre-fashion-original-imagsn2pbdy8apay.jpeg?q=70",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclejmv8q2MZPJ7LuOtsdIsq96iXL9KbQpE2-IX5Zv-BbAnraoBkZ4Ml0JAvIPiJInpGk&usqp=CAU",
+        "https://images.squarespace-cdn.com/content/v1/580cf7ce6b8f5b3576a3da9f/1597614461544-FFTOA1TABOJ3G4NQAARD/7ae330c577e7ec4f46c4370c5817d1b1.jpg",
+        "https://editorialist.com/thumbnail/600/2021/4/014/098/776/14098776~white_0.webp?width=454&quality=60"
+      ],
+      "size": ["s", "m", "l", "xl"],
+      "newPrice": "460",
+      "prevPrice": "2999",
+      "star": [1, 2, 3, 4],
+      "stock": 20,
+      "reviews": "(153 reviews)",
+      "color": ["red", "green", "black", "pink"]
+    },
+    {
+      "id": 4,
+      "brand": "PHYSIL",
+      "title": "Women Embroidered, Printed Viscose Rayon Straight Kurta",
+      "category": "kurtis",
+      "description": "Silk georgette mini dress with floral print, long sleeves, and ruffled hem.",
+      "discountPercentage": 10.5,
+      "images": [
+        "https://rukminim2.flixcart.com/image/612/612/xif0q/kurta/5/u/g/l-001-lavender-kurta-physil-original-imagzggwtgmghux7.jpeg?q=70",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclejmv8q2MZPJ7LuOtsdIsq96iXL9KbQpE2-IX5Zv-BbAnraoBkZ4Ml0JAvIPiJInpGk&usqp=CAU",
+        "https://images.squarespace-cdn.com/content/v1/580cf7ce6b8f5b3576a3da9f/1597614461544-FFTOA1TABOJ3G4NQAARD/7ae330c577e7ec4f46c4370c5817d1b1.jpg",
+        "https://editorialist.com/thumbnail/600/2021/4/014/098/776/14098776~white_0.webp?width=454&quality=60"
+      ],
+      "size": ["s", "m", "l", "xl"],
+      "newPrice": "454",
+      "prevPrice": "1299",
+      "star": [1, 2, 3],
+      "stock": 20,
+      "reviews": "(153 reviews)",
+      "color": ["red", "green", "black", "pink"]
+    },
+    {
+      "id": 5,
+      "brand": "RR SA KURTIS",
+      "title": "Women Printed Cotton Blend, Cotton Rayon Straight Kurta",
+      "category": "kurtis",
+      "description": "Silk georgette mini dress with floral print, long sleeves, and ruffled hem.",
+      "discountPercentage": 10.5,
+      "images": [
+        "https://rukminim2.flixcart.com/image/612/612/xif0q/kurta/5/u/g/l-001-lavender-kurta-physil-original-imagzggwtgmghux7.jpeg?q=70",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclejmv8q2MZPJ7LuOtsdIsq96iXL9KbQpE2-IX5Zv-BbAnraoBkZ4Ml0JAvIPiJInpGk&usqp=CAU",
+        "https://images.squarespace-cdn.com/content/v1/580cf7ce6b8f5b3576a3da9f/1597614461544-FFTOA1TABOJ3G4NQAARD/7ae330c577e7ec4f46c4370c5817d1b1.jpg",
+        "https://editorialist.com/thumbnail/600/2021/4/014/098/776/14098776~white_0.webp?width=454&quality=60"
+      ],
+      "size": ["s", "m", "l", "xl"],
+      "newPrice": "100",
+      "prevPrice": "1999",
+      "star": [1, 2, 3],
+      "stock": 20,
+      "reviews": "(153 reviews)",
+      "color": ["red", "green", "black", "pink"]
+    },
+    {
+      "id": 6,
+      "brand": "Billo Rani",
+      "title": "Solid/Plain Kasavu Pure Cotton Saree",
+      "category": "saree",
+      "description": "Silk georgette mini dress with floral print, long sleeves, and ruffled hem.",
+      "discountPercentage": 10.5,
+      "images": [
+        "https://rukminim2.flixcart.com/image/612/612/xif0q/sari/l/s/u/free-keiaia-billorani-unstitched-original-imagzac7rqyn8w8y.jpeg?q=70",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclejmv8q2MZPJ7LuOtsdIsq96iXL9KbQpE2-IX5Zv-BbAnraoBkZ4Ml0JAvIPiJInpGk&usqp=CAU",
+        "https://images.squarespace-cdn.com/content/v1/580cf7ce6b8f5b3576a3da9f/1597614461544-FFTOA1TABOJ3G4NQAARD/7ae330c577e7ec4f46c4370c5817d1b1.jpg",
+        "https://editorialist.com/thumbnail/600/2021/4/014/098/776/14098776~white_0.webp?width=454&quality=60"
+      ],
+      "size": [],
+      "newPrice": "309",
+      "prevPrice": "1999",
+      "star": [1, 2, 3],
+      "stock": 20,
+      "reviews": "(153 reviews)",
+      "color": ["white"]
+    },
+    {
+      "id": 7,
+      "brand": "Shoppershopee",
+      "title": "Woven Kanjivaram Silk Blend Saree",
+      "category": "saree",
+      "description": "Silk georgette mini dress with floral print, long sleeves, and ruffled hem.",
+      "discountPercentage": 10.5,
+      "images": [
+        "https://rukminim2.flixcart.com/image/612/612/k66sh3k0/sari/5/t/8/free-pari-24-maroon-dharm-enterprises-original-imafbb2hgyjqje3b.jpeg?q=70",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclejmv8q2MZPJ7LuOtsdIsq96iXL9KbQpE2-IX5Zv-BbAnraoBkZ4Ml0JAvIPiJInpGk&usqp=CAU",
+        "https://images.squarespace-cdn.com/content/v1/580cf7ce6b8f5b3576a3da9f/1597614461544-FFTOA1TABOJ3G4NQAARD/7ae330c577e7ec4f46c4370c5817d1b1.jpg",
+        "https://editorialist.com/thumbnail/600/2021/4/014/098/776/14098776~white_0.webp?width=454&quality=60"
+      ],
+      "size": [],
+      "newPrice": "362",
+      "prevPrice": "6999",
+      "star": [1, 2, 3],
+      "stock": 20,
+      "reviews": "(153 reviews)",
+      "color": ["Maroon"]
+    },
+    {
+      "id": 7,
+      "brand": "Shoppershopee",
+      "title": "Woven Kanjivaram Silk Blend Saree",
+      "category": "saree",
+      "description": "Silk georgette mini dress with floral print, long sleeves, and ruffled hem.",
+      "discountPercentage": 10.5,
+      "images": [
+        "https://rukminim2.flixcart.com/image/612/612/k66sh3k0/sari/5/t/8/free-pari-24-maroon-dharm-enterprises-original-imafbb2hgyjqje3b.jpeg?q=70",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclejmv8q2MZPJ7LuOtsdIsq96iXL9KbQpE2-IX5Zv-BbAnraoBkZ4Ml0JAvIPiJInpGk&usqp=CAU",
+        "https://images.squarespace-cdn.com/content/v1/580cf7ce6b8f5b3576a3da9f/1597614461544-FFTOA1TABOJ3G4NQAARD/7ae330c577e7ec4f46c4370c5817d1b1.jpg",
+        "https://editorialist.com/thumbnail/600/2021/4/014/098/776/14098776~white_0.webp?width=454&quality=60"
+      ],
+      "size": [],
+      "newPrice": "362",
+      "prevPrice": "6999",
+      "star": [1, 2, 3],
+      "stock": 20,
+      "reviews": "(153 reviews)",
+      "color": ["Maroon"]
+    },
+    {
+      "id": 8,
+      "brand": "SuperLaxmi",
+      "title": "Woven, Temple Border Narayanpet Cotton Silk Saree",
+      "category": "saree",
+      "description": "Silk georgette mini dress with floral print, long sleeves, and ruffled hem.",
+      "discountPercentage": 10.5,
+      "images": [
+        "https://rukminim2.flixcart.com/image/612/612/xif0q/sari/o/q/2/free-king-green-superlaxmi-unstitched-original-imagthe3apfpfmyc.jpeg?q=70",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclejmv8q2MZPJ7LuOtsdIsq96iXL9KbQpE2-IX5Zv-BbAnraoBkZ4Ml0JAvIPiJInpGk&usqp=CAU",
+        "https://images.squarespace-cdn.com/content/v1/580cf7ce6b8f5b3576a3da9f/1597614461544-FFTOA1TABOJ3G4NQAARD/7ae330c577e7ec4f46c4370c5817d1b1.jpg",
+        "https://editorialist.com/thumbnail/600/2021/4/014/098/776/14098776~white_0.webp?width=454&quality=60"
+      ],
+      "size": [],
+      "newPrice": "569",
+      "prevPrice": "1999",
+      "star": [1, 2, 3],
+      "stock": 20,
+      "reviews": "(153 reviews)",
+      "color": ["Green"]
+    },
+    {
+      "id": 9,
+      "brand": "MM BROTHERS",
+      "title": "Embroidered Bollywood Art Silk Saree",
+      "category": "saree",
+      "description": "Silk georgette mini dress with floral print, long sleeves, and ruffled hem.",
+      "discountPercentage": 10.5,
+      "images": [
+        "https://rukminim2.flixcart.com/image/612/612/xif0q/sari/s/v/0/free-jj-pom-pom-black-mamta-creation-unstitched-original-imafw7d3py6ggbq9.jpeg?q=70",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclejmv8q2MZPJ7LuOtsdIsq96iXL9KbQpE2-IX5Zv-BbAnraoBkZ4Ml0JAvIPiJInpGk&usqp=CAU",
+        "https://images.squarespace-cdn.com/content/v1/580cf7ce6b8f5b3576a3da9f/1597614461544-FFTOA1TABOJ3G4NQAARD/7ae330c577e7ec4f46c4370c5817d1b1.jpg",
+        "https://editorialist.com/thumbnail/600/2021/4/014/098/776/14098776~white_0.webp?width=454&quality=60"
+      ],
+      "size": [],
+      "newPrice": "299",
+      "prevPrice": "2200",
+      "star": [1, 2, 3],
+      "stock": 20,
+      "reviews": "(153 reviews)",
+      "color": ["Black"]
+    },
+    {
+      "id": 10,
+      "brand": "MIRCHI FASHION",
+      "title": "Printed, Polka Print Daily Wear Chiffon Saree",
+      "category": "saree",
+      "description": "Silk georgette mini dress with floral print, long sleeves, and ruffled hem.",
+      "discountPercentage": 10.5,
+      "images": [
+        "https://rukminim2.flixcart.com/image/612/612/xif0q/sari/s/v/0/free-jj-pom-pom-black-mamta-creation-unstitched-original-imafw7d3py6ggbq9.jpeg?q=70",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclejmv8q2MZPJ7LuOtsdIsq96iXL9KbQpE2-IX5Zv-BbAnraoBkZ4Ml0JAvIPiJInpGk&usqp=CAU",
+        "https://images.squarespace-cdn.com/content/v1/580cf7ce6b8f5b3576a3da9f/1597614461544-FFTOA1TABOJ3G4NQAARD/7ae330c577e7ec4f46c4370c5817d1b1.jpg",
+        "https://editorialist.com/thumbnail/600/2021/4/014/098/776/14098776~white_0.webp?width=454&quality=60"
+      ],
+      "size": [],
+      "newPrice": "299",
+      "prevPrice": "2200",
+      "star": [1, 2, 3],
+      "stock": 20,
+      "reviews": "(153 reviews)",
+      "color": ["red", "Black", "brown", "Green", "pink"]
+    },
+    {
+      "id": 11,
+      "brand": "Balika bodhu ",
+      "title": "Solid/Plain Handloom Pure Cotton Saree",
+      "category": "saree",
+      "description": "Silk georgette mini dress with floral print, long sleeves, and ruffled hem.",
+      "discountPercentage": 10.5,
+      "images": [
+        "https://rukminim2.flixcart.com/image/612/612/xif0q/sari/u/k/8/free-love-par-saree-1016-red-saree-unstitched-original-imagkwfty2zwhfjx.jpeg?q=70",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclejmv8q2MZPJ7LuOtsdIsq96iXL9KbQpE2-IX5Zv-BbAnraoBkZ4Ml0JAvIPiJInpGk&usqp=CAU",
+        "https://images.squarespace-cdn.com/content/v1/580cf7ce6b8f5b3576a3da9f/1597614461544-FFTOA1TABOJ3G4NQAARD/7ae330c577e7ec4f46c4370c5817d1b1.jpg",
+        "https://editorialist.com/thumbnail/600/2021/4/014/098/776/14098776~white_0.webp?width=454&quality=60"
+      ],
+      "size": [],
+      "newPrice": "480",
+      "prevPrice": "1018",
+      "star": [1, 2, 3],
+      "stock": 20,
+      "reviews": "(153 reviews)",
+      "color": ["Blue", "White"]
+    },
+    {
+      "id": 12,
+      "brand": "Balika bodhu",
+      "title": "Self Design Handloom Pure Cotton Saree",
+      "category": "saree",
+      "description": "Silk georgette mini dress with floral print, long sleeves, and ruffled hem.",
+      "discountPercentage": 10.5,
+      "images": [
+        "https://rukminim2.flixcart.com/image/612/612/xif0q/sari/2/k/n/free-white-balika-bodhu-unstitched-original-imaghnajfmga8yey.jpeg?q=70",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclejmv8q2MZPJ7LuOtsdIsq96iXL9KbQpE2-IX5Zv-BbAnraoBkZ4Ml0JAvIPiJInpGk&usqp=CAU",
+        "https://images.squarespace-cdn.com/content/v1/580cf7ce6b8f5b3576a3da9f/1597614461544-FFTOA1TABOJ3G4NQAARD/7ae330c577e7ec4f46c4370c5817d1b1.jpg",
+        "https://editorialist.com/thumbnail/600/2021/4/014/098/776/14098776~white_0.webp?width=454&quality=60"
+      ],
+      "size": [],
+      "newPrice": "480",
+      "prevPrice": "1018",
+      "star": [1, 2, 3],
+      "stock": 20,
+      "reviews": "(153 reviews)",
+      "color": ["Black", "White"]
+    }
+  ],
+  "kurtis": [
+    {
+      "id": 1,
+      "brand": "Kalini",
+      "title": "Floral Embroidered Thread Work Regular Kurta",
+      "category": "kurtis",
+      "description": "Silk georgette mini dress with floral print, long sleeves, and ruffled hem.",
+      "discountPercentage": 10.5,
+      "images": [
+        "https://rukminim2.flixcart.com/image/612/612/xif0q/kurta/m/a/b/xl-kurta-flared-u-neck-013-dhakre-fashion-original-imagsn2pbdy8apay.jpeg?q=70",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclejmv8q2MZPJ7LuOtsdIsq96iXL9KbQpE2-IX5Zv-BbAnraoBkZ4Ml0JAvIPiJInpGk&usqp=CAU",
+        "https://images.squarespace-cdn.com/content/v1/580cf7ce6b8f5b3576a3da9f/1597614461544-FFTOA1TABOJ3G4NQAARD/7ae330c577e7ec4f46c4370c5817d1b1.jpg",
+        "https://editorialist.com/thumbnail/600/2021/4/014/098/776/14098776~white_0.webp?width=454&quality=60"
+      ],
+      "size": ["s", "m", "l", "xl"],
+      "newPrice": "710",
+      "prevPrice": "2959",
+      "star": [1, 2, 3],
+      "stock": 20,
+      "reviews": "(123 reviews)",
+      "color": ["red", "green", "black", "pink", "brown"]
+    },
+    {
+      "id": 2,
+      "brand": "Sanganeri Kurti",
+      "title": "Women Printed Viscose Rayon Anarkali Kurta",
+      "category": "kurtis",
+      "description": "Silk georgette mini dress with floral print, long sleeves, and ruffled hem.",
+      "discountPercentage": 10.5,
+      "images": [
+        "https://rukminim2.flixcart.com/image/612/612/xif0q/kurta/k/l/3/4xl-sk946pk-sq-kurti-original-imagw8cgf4h7nwgz.jpeg?q=70",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclejmv8q2MZPJ7LuOtsdIsq96iXL9KbQpE2-IX5Zv-BbAnraoBkZ4Ml0JAvIPiJInpGk&usqp=CAU",
+        "https://images.squarespace-cdn.com/content/v1/580cf7ce6b8f5b3576a3da9f/1597614461544-FFTOA1TABOJ3G4NQAARD/7ae330c577e7ec4f46c4370c5817d1b1.jpg",
+        "https://editorialist.com/thumbnail/600/2021/4/014/098/776/14098776~white_0.webp?width=454&quality=60"
+      ],
+      "size": ["s", "m", "l", "xl"],
+      "newPrice": "464",
+      "prevPrice": "2499",
+      "star": [1, 2, 3],
+      "stock": 20,
+      "reviews": "(123 reviews)",
+      "color": ["red", "green", "black", "pink", "brown"]
+    },
+    {
+      "id": 3,
+      "brand": "Nice Look Fashion",
+      "title": "Women Embroidered Cotton Rayon Straight Kurta",
+      "category": "kurtis",
+      "description": "Silk georgette mini dress with floral print, long sleeves, and ruffled hem.",
+      "discountPercentage": 10.5,
+      "images": [
+        "https://rukminim2.flixcart.com/image/612/612/xif0q/kurta/m/a/b/xl-kurta-flared-u-neck-013-dhakre-fashion-original-imagsn2pbdy8apay.jpeg?q=70",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclejmv8q2MZPJ7LuOtsdIsq96iXL9KbQpE2-IX5Zv-BbAnraoBkZ4Ml0JAvIPiJInpGk&usqp=CAU",
+        "https://images.squarespace-cdn.com/content/v1/580cf7ce6b8f5b3576a3da9f/1597614461544-FFTOA1TABOJ3G4NQAARD/7ae330c577e7ec4f46c4370c5817d1b1.jpg",
+        "https://editorialist.com/thumbnail/600/2021/4/014/098/776/14098776~white_0.webp?width=454&quality=60"
+      ],
+      "size": ["s", "m", "l", "xl"],
+      "newPrice": "460",
+      "prevPrice": "2999",
+      "star": [1, 2, 3, 4],
+      "stock": 20,
+      "reviews": "(153 reviews)",
+      "color": ["red", "green", "black", "pink"]
+    },
+    {
+      "id": 4,
+      "brand": "PHYSIL",
+      "title": "Women Embroidered, Printed Viscose Rayon Straight Kurta",
+      "category": "kurtis",
+      "description": "Silk georgette mini dress with floral print, long sleeves, and ruffled hem.",
+      "discountPercentage": 10.5,
+      "images": [
+        "https://rukminim2.flixcart.com/image/612/612/xif0q/kurta/5/u/g/l-001-lavender-kurta-physil-original-imagzggwtgmghux7.jpeg?q=70",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclejmv8q2MZPJ7LuOtsdIsq96iXL9KbQpE2-IX5Zv-BbAnraoBkZ4Ml0JAvIPiJInpGk&usqp=CAU",
+        "https://images.squarespace-cdn.com/content/v1/580cf7ce6b8f5b3576a3da9f/1597614461544-FFTOA1TABOJ3G4NQAARD/7ae330c577e7ec4f46c4370c5817d1b1.jpg",
+        "https://editorialist.com/thumbnail/600/2021/4/014/098/776/14098776~white_0.webp?width=454&quality=60"
+      ],
+      "size": ["s", "m", "l", "xl"],
+      "newPrice": "454",
+      "prevPrice": "1299",
+      "star": [1, 2, 3],
+      "stock": 20,
+      "reviews": "(153 reviews)",
+      "color": ["red", "green", "black", "pink"]
+    },
+    {
+      "id": 5,
+      "brand": "RR SA KURTIS",
+      "title": "Women Printed Cotton Blend, Cotton Rayon Straight Kurta",
+      "category": "kurtis",
+      "description": "Silk georgette mini dress with floral print, long sleeves, and ruffled hem.",
+      "discountPercentage": 10.5,
+      "images": [
+        "https://rukminim2.flixcart.com/image/612/612/xif0q/kurta/5/u/g/l-001-lavender-kurta-physil-original-imagzggwtgmghux7.jpeg?q=70",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclejmv8q2MZPJ7LuOtsdIsq96iXL9KbQpE2-IX5Zv-BbAnraoBkZ4Ml0JAvIPiJInpGk&usqp=CAU",
+        "https://images.squarespace-cdn.com/content/v1/580cf7ce6b8f5b3576a3da9f/1597614461544-FFTOA1TABOJ3G4NQAARD/7ae330c577e7ec4f46c4370c5817d1b1.jpg",
+        "https://editorialist.com/thumbnail/600/2021/4/014/098/776/14098776~white_0.webp?width=454&quality=60"
+      ],
+      "size": ["s", "m", "l", "xl"],
+      "newPrice": "100",
+      "prevPrice": "1999",
+      "star": [1, 2, 3],
+      "stock": 20,
+      "reviews": "(153 reviews)",
+      "color": ["red", "green", "black", "pink"]
+    },
+    {
+      "id": 6,
+      "brand": "Kalini",
+      "title": "Floral Embroidered Thread Work Regular Kurta",
+      "category": "kurtis",
+      "description": "Silk georgette mini dress with floral print, long sleeves, and ruffled hem.",
+      "discountPercentage": 10.5,
+      "images": [
+        "https://rukminim2.flixcart.com/image/612/612/xif0q/kurta/m/a/b/xl-kurta-flared-u-neck-013-dhakre-fashion-original-imagsn2pbdy8apay.jpeg?q=70",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclejmv8q2MZPJ7LuOtsdIsq96iXL9KbQpE2-IX5Zv-BbAnraoBkZ4Ml0JAvIPiJInpGk&usqp=CAU",
+        "https://images.squarespace-cdn.com/content/v1/580cf7ce6b8f5b3576a3da9f/1597614461544-FFTOA1TABOJ3G4NQAARD/7ae330c577e7ec4f46c4370c5817d1b1.jpg",
+        "https://editorialist.com/thumbnail/600/2021/4/014/098/776/14098776~white_0.webp?width=454&quality=60"
+      ],
+      "size": ["s", "m", "l", "xl"],
+      "newPrice": "710",
+      "prevPrice": "2959",
+      "star": [1, 2, 3],
+      "stock": 20,
+      "reviews": "(123 reviews)",
+      "color": ["red", "green", "black", "pink", "brown"]
+    },
+    {
+      "id": 7,
+      "brand": "Sanganeri Kurti",
+      "title": "Women Printed Viscose Rayon Anarkali Kurta",
+      "category": "kurtis",
+      "description": "Silk georgette mini dress with floral print, long sleeves, and ruffled hem.",
+      "discountPercentage": 10.5,
+      "images": [
+        "https://rukminim2.flixcart.com/image/612/612/xif0q/kurta/k/l/3/4xl-sk946pk-sq-kurti-original-imagw8cgf4h7nwgz.jpeg?q=70",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclejmv8q2MZPJ7LuOtsdIsq96iXL9KbQpE2-IX5Zv-BbAnraoBkZ4Ml0JAvIPiJInpGk&usqp=CAU",
+        "https://images.squarespace-cdn.com/content/v1/580cf7ce6b8f5b3576a3da9f/1597614461544-FFTOA1TABOJ3G4NQAARD/7ae330c577e7ec4f46c4370c5817d1b1.jpg",
+        "https://editorialist.com/thumbnail/600/2021/4/014/098/776/14098776~white_0.webp?width=454&quality=60"
+      ],
+      "size": ["s", "m", "l", "xl"],
+      "newPrice": "464",
+      "prevPrice": "2499",
+      "star": [1, 2, 3],
+      "stock": 20,
+      "reviews": "(123 reviews)",
+      "color": ["red", "green", "black", "pink", "brown"]
+    },
+    {
+      "id": 8,
+      "brand": "Nice Look Fashion",
+      "title": "Women Embroidered Cotton Rayon Straight Kurta",
+      "category": "kurtis",
+      "description": "Silk georgette mini dress with floral print, long sleeves, and ruffled hem.",
+      "discountPercentage": 10.5,
+      "images": [
+        "https://rukminim2.flixcart.com/image/612/612/xif0q/kurta/m/a/b/xl-kurta-flared-u-neck-013-dhakre-fashion-original-imagsn2pbdy8apay.jpeg?q=70",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclejmv8q2MZPJ7LuOtsdIsq96iXL9KbQpE2-IX5Zv-BbAnraoBkZ4Ml0JAvIPiJInpGk&usqp=CAU",
+        "https://images.squarespace-cdn.com/content/v1/580cf7ce6b8f5b3576a3da9f/1597614461544-FFTOA1TABOJ3G4NQAARD/7ae330c577e7ec4f46c4370c5817d1b1.jpg",
+        "https://editorialist.com/thumbnail/600/2021/4/014/098/776/14098776~white_0.webp?width=454&quality=60"
+      ],
+      "size": ["s", "m", "l", "xl"],
+      "newPrice": "460",
+      "prevPrice": "2999",
+      "star": [1, 2, 3, 4],
+      "stock": 20,
+      "reviews": "(153 reviews)",
+      "color": ["red", "green", "black", "pink"]
+    },
+    {
+      "id": 9,
+      "brand": "PHYSIL",
+      "title": "Women Embroidered, Printed Viscose Rayon Straight Kurta",
+      "category": "kurtis",
+      "description": "Silk georgette mini dress with floral print, long sleeves, and ruffled hem.",
+      "discountPercentage": 10.5,
+      "images": [
+        "https://rukminim2.flixcart.com/image/612/612/xif0q/kurta/5/u/g/l-001-lavender-kurta-physil-original-imagzggwtgmghux7.jpeg?q=70",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclejmv8q2MZPJ7LuOtsdIsq96iXL9KbQpE2-IX5Zv-BbAnraoBkZ4Ml0JAvIPiJInpGk&usqp=CAU",
+        "https://images.squarespace-cdn.com/content/v1/580cf7ce6b8f5b3576a3da9f/1597614461544-FFTOA1TABOJ3G4NQAARD/7ae330c577e7ec4f46c4370c5817d1b1.jpg",
+        "https://editorialist.com/thumbnail/600/2021/4/014/098/776/14098776~white_0.webp?width=454&quality=60"
+      ],
+      "size": ["s", "m", "l", "xl"],
+      "newPrice": "454",
+      "prevPrice": "1299",
+      "star": [1, 2, 3],
+      "stock": 20,
+      "reviews": "(153 reviews)",
+      "color": ["red", "green", "black", "pink"]
+    },
+    {
+      "id": 10,
+      "brand": "RR SA KURTIS",
+      "title": "Women Printed Cotton Blend, Cotton Rayon Straight Kurta",
+      "category": "kurtis",
+      "description": "Silk georgette mini dress with floral print, long sleeves, and ruffled hem.",
+      "discountPercentage": 10.5,
+      "images": [
+        "https://rukminim2.flixcart.com/image/612/612/xif0q/kurta/5/u/g/l-001-lavender-kurta-physil-original-imagzggwtgmghux7.jpeg?q=70",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclejmv8q2MZPJ7LuOtsdIsq96iXL9KbQpE2-IX5Zv-BbAnraoBkZ4Ml0JAvIPiJInpGk&usqp=CAU",
+        "https://images.squarespace-cdn.com/content/v1/580cf7ce6b8f5b3576a3da9f/1597614461544-FFTOA1TABOJ3G4NQAARD/7ae330c577e7ec4f46c4370c5817d1b1.jpg",
+        "https://editorialist.com/thumbnail/600/2021/4/014/098/776/14098776~white_0.webp?width=454&quality=60"
+      ],
+      "size": ["s", "m", "l", "xl"],
+      "newPrice": "100",
+      "prevPrice": "1999",
+      "star": [1, 2, 3],
+      "stock": 20,
+      "reviews": "(153 reviews)",
+      "color": ["red", "green", "black", "pink"]
+    }
+  ],
+  "saree": [
+    {
+      "id": 6,
+      "brand": "Billo Rani",
+      "title": "Solid/Plain Kasavu Pure Cotton Saree",
+      "category": "saree",
+      "description": "Silk georgette mini dress with floral print, long sleeves, and ruffled hem.",
+      "discountPercentage": 10.5,
+      "images": [
+        "https://rukminim2.flixcart.com/image/612/612/xif0q/sari/l/s/u/free-keiaia-billorani-unstitched-original-imagzac7rqyn8w8y.jpeg?q=70",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclejmv8q2MZPJ7LuOtsdIsq96iXL9KbQpE2-IX5Zv-BbAnraoBkZ4Ml0JAvIPiJInpGk&usqp=CAU",
+        "https://images.squarespace-cdn.com/content/v1/580cf7ce6b8f5b3576a3da9f/1597614461544-FFTOA1TABOJ3G4NQAARD/7ae330c577e7ec4f46c4370c5817d1b1.jpg",
+        "https://editorialist.com/thumbnail/600/2021/4/014/098/776/14098776~white_0.webp?width=454&quality=60"
+      ],
+      "size": [],
+      "newPrice": "309",
+      "prevPrice": "1999",
+      "star": [1, 2, 3],
+      "stock": 20,
+      "reviews": "(153 reviews)",
+      "color": ["white"]
+    },
+    {
+      "id": 7,
+      "brand": "Shoppershopee",
+      "title": "Woven Kanjivaram Silk Blend Saree",
+      "category": "saree",
+      "description": "Silk georgette mini dress with floral print, long sleeves, and ruffled hem.",
+      "discountPercentage": 10.5,
+      "images": [
+        "https://rukminim2.flixcart.com/image/612/612/k66sh3k0/sari/5/t/8/free-pari-24-maroon-dharm-enterprises-original-imafbb2hgyjqje3b.jpeg?q=70",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclejmv8q2MZPJ7LuOtsdIsq96iXL9KbQpE2-IX5Zv-BbAnraoBkZ4Ml0JAvIPiJInpGk&usqp=CAU",
+        "https://images.squarespace-cdn.com/content/v1/580cf7ce6b8f5b3576a3da9f/1597614461544-FFTOA1TABOJ3G4NQAARD/7ae330c577e7ec4f46c4370c5817d1b1.jpg",
+        "https://editorialist.com/thumbnail/600/2021/4/014/098/776/14098776~white_0.webp?width=454&quality=60"
+      ],
+      "size": [],
+      "newPrice": "362",
+      "prevPrice": "6999",
+      "star": [1, 2, 3],
+      "stock": 20,
+      "reviews": "(153 reviews)",
+      "color": ["Maroon"]
+    },
+    {
+      "id": 7,
+      "brand": "Shoppershopee",
+      "title": "Woven Kanjivaram Silk Blend Saree",
+      "category": "saree",
+      "description": "Silk georgette mini dress with floral print, long sleeves, and ruffled hem.",
+      "discountPercentage": 10.5,
+      "images": [
+        "https://rukminim2.flixcart.com/image/612/612/k66sh3k0/sari/5/t/8/free-pari-24-maroon-dharm-enterprises-original-imafbb2hgyjqje3b.jpeg?q=70",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclejmv8q2MZPJ7LuOtsdIsq96iXL9KbQpE2-IX5Zv-BbAnraoBkZ4Ml0JAvIPiJInpGk&usqp=CAU",
+        "https://images.squarespace-cdn.com/content/v1/580cf7ce6b8f5b3576a3da9f/1597614461544-FFTOA1TABOJ3G4NQAARD/7ae330c577e7ec4f46c4370c5817d1b1.jpg",
+        "https://editorialist.com/thumbnail/600/2021/4/014/098/776/14098776~white_0.webp?width=454&quality=60"
+      ],
+      "size": [],
+      "newPrice": "362",
+      "prevPrice": "6999",
+      "star": [1, 2, 3],
+      "stock": 20,
+      "reviews": "(153 reviews)",
+      "color": ["Maroon"]
+    },
+    {
+      "id": 8,
+      "brand": "SuperLaxmi",
+      "title": "Woven, Temple Border Narayanpet Cotton Silk Saree",
+      "category": "saree",
+      "description": "Silk georgette mini dress with floral print, long sleeves, and ruffled hem.",
+      "discountPercentage": 10.5,
+      "images": [
+        "https://rukminim2.flixcart.com/image/612/612/xif0q/sari/o/q/2/free-king-green-superlaxmi-unstitched-original-imagthe3apfpfmyc.jpeg?q=70",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclejmv8q2MZPJ7LuOtsdIsq96iXL9KbQpE2-IX5Zv-BbAnraoBkZ4Ml0JAvIPiJInpGk&usqp=CAU",
+        "https://images.squarespace-cdn.com/content/v1/580cf7ce6b8f5b3576a3da9f/1597614461544-FFTOA1TABOJ3G4NQAARD/7ae330c577e7ec4f46c4370c5817d1b1.jpg",
+        "https://editorialist.com/thumbnail/600/2021/4/014/098/776/14098776~white_0.webp?width=454&quality=60"
+      ],
+      "size": [],
+      "newPrice": "569",
+      "prevPrice": "1999",
+      "star": [1, 2, 3],
+      "stock": 20,
+      "reviews": "(153 reviews)",
+      "color": ["Green"]
+    },
+    {
+      "id": 9,
+      "brand": "MM BROTHERS",
+      "title": "Embroidered Bollywood Art Silk Saree",
+      "category": "saree",
+      "description": "Silk georgette mini dress with floral print, long sleeves, and ruffled hem.",
+      "discountPercentage": 10.5,
+      "images": [
+        "https://rukminim2.flixcart.com/image/612/612/xif0q/sari/s/v/0/free-jj-pom-pom-black-mamta-creation-unstitched-original-imafw7d3py6ggbq9.jpeg?q=70",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclejmv8q2MZPJ7LuOtsdIsq96iXL9KbQpE2-IX5Zv-BbAnraoBkZ4Ml0JAvIPiJInpGk&usqp=CAU",
+        "https://images.squarespace-cdn.com/content/v1/580cf7ce6b8f5b3576a3da9f/1597614461544-FFTOA1TABOJ3G4NQAARD/7ae330c577e7ec4f46c4370c5817d1b1.jpg",
+        "https://editorialist.com/thumbnail/600/2021/4/014/098/776/14098776~white_0.webp?width=454&quality=60"
+      ],
+      "size": [],
+      "newPrice": "299",
+      "prevPrice": "2200",
+      "star": [1, 2, 3],
+      "stock": 20,
+      "reviews": "(153 reviews)",
+      "color": ["Black"]
+    },
+    {
+      "id": 10,
+      "brand": "MIRCHI FASHION",
+      "title": "Printed, Polka Print Daily Wear Chiffon Saree",
+      "category": "saree",
+      "description": "Silk georgette mini dress with floral print, long sleeves, and ruffled hem.",
+      "discountPercentage": 10.5,
+      "images": [
+        "https://rukminim2.flixcart.com/image/612/612/xif0q/sari/s/v/0/free-jj-pom-pom-black-mamta-creation-unstitched-original-imafw7d3py6ggbq9.jpeg?q=70",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclejmv8q2MZPJ7LuOtsdIsq96iXL9KbQpE2-IX5Zv-BbAnraoBkZ4Ml0JAvIPiJInpGk&usqp=CAU",
+        "https://images.squarespace-cdn.com/content/v1/580cf7ce6b8f5b3576a3da9f/1597614461544-FFTOA1TABOJ3G4NQAARD/7ae330c577e7ec4f46c4370c5817d1b1.jpg",
+        "https://editorialist.com/thumbnail/600/2021/4/014/098/776/14098776~white_0.webp?width=454&quality=60"
+      ],
+      "size": [],
+      "newPrice": "299",
+      "prevPrice": "2200",
+      "star": [1, 2, 3],
+      "stock": 20,
+      "reviews": "(153 reviews)",
+      "color": ["red", "Black", "brown", "Green", "pink"]
+    },
+    {
+      "id": 11,
+      "brand": "Balika bodhu ",
+      "title": "Solid/Plain Handloom Pure Cotton Saree",
+      "category": "saree",
+      "description": "Silk georgette mini dress with floral print, long sleeves, and ruffled hem.",
+      "discountPercentage": 10.5,
+      "images": [
+        "https://rukminim2.flixcart.com/image/612/612/xif0q/sari/u/k/8/free-love-par-saree-1016-red-saree-unstitched-original-imagkwfty2zwhfjx.jpeg?q=70",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclejmv8q2MZPJ7LuOtsdIsq96iXL9KbQpE2-IX5Zv-BbAnraoBkZ4Ml0JAvIPiJInpGk&usqp=CAU",
+        "https://images.squarespace-cdn.com/content/v1/580cf7ce6b8f5b3576a3da9f/1597614461544-FFTOA1TABOJ3G4NQAARD/7ae330c577e7ec4f46c4370c5817d1b1.jpg",
+        "https://editorialist.com/thumbnail/600/2021/4/014/098/776/14098776~white_0.webp?width=454&quality=60"
+      ],
+      "size": [],
+      "newPrice": "480",
+      "prevPrice": "1018",
+      "star": [1, 2, 3],
+      "stock": 20,
+      "reviews": "(153 reviews)",
+      "color": ["Blue", "White"]
+    },
+    {
+      "id": 12,
+      "brand": "Balika bodhu",
+      "title": "Self Design Handloom Pure Cotton Saree",
+      "category": "saree",
+      "description": "Silk georgette mini dress with floral print, long sleeves, and ruffled hem.",
+      "discountPercentage": 10.5,
+      "images": [
+        "https://rukminim2.flixcart.com/image/612/612/xif0q/sari/2/k/n/free-white-balika-bodhu-unstitched-original-imaghnajfmga8yey.jpeg?q=70",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclejmv8q2MZPJ7LuOtsdIsq96iXL9KbQpE2-IX5Zv-BbAnraoBkZ4Ml0JAvIPiJInpGk&usqp=CAU",
+        "https://images.squarespace-cdn.com/content/v1/580cf7ce6b8f5b3576a3da9f/1597614461544-FFTOA1TABOJ3G4NQAARD/7ae330c577e7ec4f46c4370c5817d1b1.jpg",
+        "https://editorialist.com/thumbnail/600/2021/4/014/098/776/14098776~white_0.webp?width=454&quality=60"
+      ],
+      "size": [],
+      "newPrice": "480",
+      "prevPrice": "1018",
+      "star": [1, 2, 3],
+      "stock": 20,
+      "reviews": "(153 reviews)",
+      "color": ["Black", "White"]
+    }
+  ]
+}
